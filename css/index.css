@@ -251,7 +251,7 @@ nav img:last-child {
 }
 
 /**********Media queries*********/
-@media screen and (max-width:412px) {
+@media screen and (max-width:420px) {
     body, html{
         width: 100vw;
         overflow-x: hidden;
